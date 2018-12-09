@@ -75,16 +75,16 @@ Available lists
 
 **Spamhaus** - DROP and EDROP.
 
-* http://www.spamhaus.org/drop/drop.txt
-* http://www.spamhaus.org/drop/edrop.txt
+* https://www.spamhaus.org/drop/drop.txt
+* https://www.spamhaus.org/drop/edrop.txt
 
 **DShield** - Most Active Attacking IPs.
 
-* http://feeds.dshield.org/top10-2.txt
+* https://feeds.dshield.org/top10-2.txt
 
 **iblocklist.com** - A number of lists are available.
 
-* http://www.iblocklist.com/lists.php
+* https://www.iblocklist.com/lists.php
 
 FAQ
 ---
